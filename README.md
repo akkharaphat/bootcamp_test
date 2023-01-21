@@ -1,11 +1,12 @@
 # Bootcamp Project
 
-Data science bootcamp with DataRockie
+Data science bootcamp with **[DataRockie](https://datarockie.com/)**
 
-learn 10 sprints during 4 month program.
+learn 10 sprints during 4 month intensive program.
 
 <li>
 Spreadsheets
+    <li>
 <li>
 SQL Database
 <li>
