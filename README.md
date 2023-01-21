@@ -4,9 +4,8 @@ Data science bootcamp with **[DataRockie](https://datarockie.com/)**
 
 learn 10 sprints during 4 month intensive program.
 
-<li>
-Spreadsheets
-    <li>
+## Spreadsheets
+   <li> [Query](spreadsheets/dynamic query.png) return result with query
 <li>
 SQL Database
 <li>
