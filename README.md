@@ -5,23 +5,25 @@ Data science bootcamp with **[DataRockie](https://datarockie.com/)**
 learn 10 sprints during 4 month intensive program.
 
 ## Spreadsheets
-   <li> [Query](spreadsheets/dynamic query.png) return result with query
-<li>
-SQL Database
-<li>
-R Programming
-<li>
-Data Transformation
-<li>
-Data Visualization
-<li>
-Statistics
-<li>
-Intro to Classical Machine Learning
-<li>
-Intro to Python
-<li>
-Essential Python for Data Analyst
-<li>
-Dashboard
-</li>
+ [Query](https://github.com/akkharaphat/bootcamp_test/blob/191e0e057f7807cb8d5822ecf798b3039afd6a7e/spreadsheets/dynamic%20query.png) <br> return result with query
+
+
+
+## SQL Database
+
+## R Programming
+
+## Data Transformation
+
+## Data Visualization
+
+## Statistics
+
+## Intro to Classical Machine Learning
+
+## Intro to Python
+
+## Essential Python for Data Analyst
+
+## Dashboard
+
